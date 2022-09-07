@@ -34,7 +34,7 @@ int _cd(char **args)
  */
 int _help(__attribute__((unused)) char **args)
 {
-	write(1, "Joseph & Washington shell\n", 26);
+	write(1, "shell\n", 26);
 	write(1, "Type program names and arguments, and hit enter.\n", 49);
 	write(1, "The following are built in:\n", 28);
 	write(1, "* cd\n", 5);

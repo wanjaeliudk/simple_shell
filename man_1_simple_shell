@@ -59,11 +59,8 @@ The kill process command \fICtrl+C\fR has been disabled.
 
 .SH AUTHORS
 
-Washington Obungu
-<\fItobungu@gmail.com\fR>
-
 Joseph Emmanuel
-<\fIdonjoedbest@gmail.com\fR>
+<\eliudwanja.ew@gmail.com\fR>
 
 .SH SEE ALSO
 B. sh(1), chdir(2), execve(2), fork(2), free(2), getline(3), isatty(3), malloc(3), perror(3), signal(2), stat(2), wait(2), write(2).
